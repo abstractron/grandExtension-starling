@@ -5,13 +5,17 @@ Built on [Starling](http://gamua.com/starling/) for Adobe AIR and Flash Player.
 
 ## Available extensions
 
-### Joystick
+### Joystick 
 
 Virtual joystick component.
 
 [Demo](http://grandroot.com/showcase/joystick/)
 
-### TMX parser
+### Tilemap (Under development, I do not recommend to use this yet)
+
+### TMX parser (Under development, but it is working already quite fine)
+
+Based on : http://blog.pixelpracht.net/?p=59
 
 ## Depencies
 
